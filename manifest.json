@@ -1,0 +1,15 @@
+{
+  "name": "Mac Studio App",
+  "short_name": "MacStudio",
+  "start_url": "/pwa/",
+  "display": "standalone",
+  "background_color": "#1e1e1e",
+  "theme_color": "#2d2d2d",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/518/518713.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
